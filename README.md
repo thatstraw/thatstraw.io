@@ -1,1 +1,1 @@
-# thatstraw.io
+These are my notes on everything I study, not yet perfect.
